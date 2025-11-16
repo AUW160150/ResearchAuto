@@ -81,12 +81,6 @@ The script will create `meeting_actions.md` with:
 ```
 
 ---
-### Tech Stack
-Python + Flask for the backend
-Grok AI for intelligent parsing (could swap Claude, GPT-4, etc.)
-Meetstream.ai API for transcription (swappable)
-Markdown export for universal compatibility
-
 ## This is V1. Next features:
 
 Google Calendar integration - auto-add deadlines
