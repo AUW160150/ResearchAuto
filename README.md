@@ -81,6 +81,21 @@ The script will create `meeting_actions.md` with:
 ```
 
 ---
+### Tech Stack
+Python + Flask for the backend
+Grok AI for intelligent parsing (could swap Claude, GPT-4, etc.)
+Meetstream.ai API for transcription (swappable)
+Markdown export for universal compatibility
+
+## This is V1. Next features:
+
+Google Calendar integration - auto-add deadlines
+Slack notifications - '@Sarah you have 3 tasks due Friday'
+Multi-meeting synthesis - track projects across weeks
+GitHub Issues auto-creation - for dev teams
+Notion database population - one-click export
+
+The vision is: meetings happen, action items are automatically distributed, everyone knows what to do—zero manual work
 
 ## 🔧 Configuration (Optional)
 
@@ -157,14 +172,6 @@ This solves real pain points from 5+ years in academic research.
 ## 📄 License
 
 MIT License
-
----
-
-## 📞 Contact
-
-- Email: mrozbu@alumni.cmu.edu
-- GitHub: [@MRodela7](https://github.com/MRodela7/)
-- LinkedIn: [Mahtabin Rodela](https://linkedin.com/in/mahtabin-rodela)
 
 ---
 
